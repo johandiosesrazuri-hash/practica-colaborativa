@@ -1,3 +1,4 @@
 ## Nombre del grupo: Herramientas
 ## Curso: Herramientas de Desarrollo
-## Descripcion: Tarea herramientas
+## Descripcion: Proyecto: Sistema de Inventario
+
